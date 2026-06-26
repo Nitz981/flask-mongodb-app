@@ -119,29 +119,29 @@ minikube service flask-service
 
 # Screenshots
 
+# Screenshots
+
 ## 1. Flask Application Output
 
-![Application Output](k8s/screenshots/output.png)
+![Application Output](k8s/screenshots/Screenshot%202026-06-26%20100156.png)
 
 ---
 
 ## 2. Running Flask Application
 
-![Python App](k8s/screenshots/python-app.png)
+![Python App](k8s/screenshots/Screenshot%202026-06-26%20100513.png)
 
 ---
 
 ## 3. Kubernetes Pods
 
-![Pods](k8s/screenshots/pods.png)
+![Pods](k8s/screenshots/Screenshot%202026-06-26%20100645.png)
 
 ---
 
 ## 4. Docker Container
 
-![Docker](k8s/screenshots/docker.png)
-
----
+![Docker](k8s/screenshots/Screenshot%202026-06-26%20100803.png)
 
 ## Author
 
